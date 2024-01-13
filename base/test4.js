@@ -16,7 +16,7 @@ let n ={
 let m = n;
 
 m.mail="xyz"
-m.p=9891226763
+
 console.log(n.p)
 console.log(m.p)
 console.log(m.mail)
